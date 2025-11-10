@@ -69,7 +69,7 @@ const CONFIG = {
   DROPDOWN_OPTIONS: ["Send Email", "Email Sent"],
   // ...other formatting settings
 };
-
+```
 ## Usage
 
 ### 1. Ad-Hoc Email Trigger (The "Ad-Hoc Tasks" Sheet)
